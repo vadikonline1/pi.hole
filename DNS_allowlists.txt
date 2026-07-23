@@ -1,12 +1,9 @@
-@@||*.aalto.md^$important
-@@||*.filmixapp.cyou^$important
-@@||nl215.werkecdn.me^$important
 @@||*.cdn.polaris-iot.com^$important
 @@||mqtt.cloud.polaris-iot.com^$important
-@@||ios.bugly.qq.com^$important
-@@||da.mosspf.net^$important
 @@||use1api.jooaniot.com^$important
 @@||use1mqtt.jooaniot.com^$important
-@@||*.appewa.com^$important
 @@||eu.iot.mova-tech.com^$important
+@@||*.filmixapp.cyou^$important
+@@||ios.bugly.qq.com^$important
+@@||*.appewa.com^$important
 @@||push.yandex.ru^$important
