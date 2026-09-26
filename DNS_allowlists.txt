@@ -7,3 +7,8 @@
 @@||ios.bugly.qq.com^$important
 @@||*.appewa.com^$important
 @@||push.yandex.ru^$important
+@@||androidtvchannels-pa.googleapis.com^$important
+@@||eway.md^$client='10.42.0.174'
+@@||beacons.gcp.gvt2.com^$important
+@@||beacons4.gvt2.com^$important
+@@||beacons3.gvt2.com^$important
